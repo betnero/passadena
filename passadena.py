@@ -7,7 +7,7 @@ import string
 print()
 print("-" * 75)
 print("DISCLAIMER: ")
-print("A password to be relatively considered secure should be at least 12 to 15 characters long. It should include special characters, upper- and lowercase letters and digits.")
+print("A password to be considered relatively secure should be at least 12 to 15 characters long. It should include special characters, upper- and lowercase letters and digits.")
 print("-" * 75)
 print("ATTENTION!: ")
 print("This password generator is not and should not be considered fully secure. It is to be treated with caution and as an assistive measure only.")
