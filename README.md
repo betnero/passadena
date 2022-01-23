@@ -1,7 +1,7 @@
 # passadena
 A password generator designed with ease of use in mind. 
 It generates a secure password of a chosen length using python 'secrets' module.
-Python 'random' is not to be considered secure for that purpose.
+Python 'random' moduke is not to be considered secure for that purpose.
 
 # Disclaimer
 
