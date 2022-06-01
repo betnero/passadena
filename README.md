@@ -10,7 +10,7 @@ This password generator has been developed with security in mind but no software
 The user takes full responsibility of any direct or indirect damage inflicted by proper or inproper use of the software or its parts.
 
 # Installation
-   To use the software eneter the following commands into the temrinal
+   To use the software enter the following commands into the temrinal
    - git clone https://github.com/betnero/passadena.git
    - cd ./passadena/
    - chmod +x passadena.py
